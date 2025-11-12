@@ -2,6 +2,8 @@
 
 **Private Score:** 0.93310 • **Public Score:** 0.94464
 
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F19186184%2Faf329c5e0e153f01c46c306e59078855%2Fzen_irMASdRVfF.png?generation=1762982253485437&alt=media)
+
 ## Overview
 
 This repository contains the 1st-place solution for the **North Western University (Khulna) Datathon (CSE Fest 2025)**. The goal was to predict fraudulent transactions (`fraud` column) using large-scale transactional data. The solution achieved top performance on both public and private leaderboards.
